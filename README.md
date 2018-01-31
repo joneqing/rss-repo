@@ -1,9 +1,16 @@
 # 个人收藏的rss订阅源
+
 ## 技术博客
-  * 张鑫旭blog(http://www.zhangxinxu.com/wordpress/feed/)
-  * 十年踪迹(https://www.h5jun.com/rss.html)
-  * 小胡子哥(http://www.barretlee.com/rss2.xml)
+
+* 张鑫旭blog(http://www.zhangxinxu.com/wordpress/feed/)
+* 十年踪迹(https://www.h5jun.com/rss.html)
+* 小胡子哥(http://www.barretlee.com/rss2.xml)
+* 阮一峰blog(http://www.ruanyifeng.com/blog/atom.xml)
+
 ## 科技类
-  * 少数派(http://sspai.com/feed)
+
+* 少数派(http://sspai.com/feed)
+
 ## 人文类
-  * 左岸读书(http://www.zreading.cn/feed)
+
+* 左岸读书(http://www.zreading.cn/feed)
