@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>RSS</title>
+</head>
+<body>
+<outline text="Blog | Phodal - A Growth Engineer" title="Blog | Phodal - A Growth Engineer" htmlUrl="http://www.phodal.com/blog/" type="rss" xmlUrl="https://www.phodal.com/blog/feeds/rss/" />
+<outline type="rss" title="JerryQu 的小站" htmlUrl="https://imququ.com" text="JerryQu 的小站" xmlUrl="https://imququ.com/rss.html" />
+<outline text="w3cplus.com" type="rss" title="w3cplus.com" htmlUrl="http://www.w3cplus.com" xmlUrl="http://www.w3cplus.com/rss.xml" />
+<outline htmlUrl="https://www.h5jun.com" type="rss" xmlUrl="https://www.h5jun.com/rss.html" title="十年踪迹的博客" text="十年踪迹的博客" />
+<outline xmlUrl="https://weekly.75team.com/rss.php" htmlUrl="https://75team.com/weekly/" type="rss" text="奇舞周刊" title="奇舞周刊" />
+<outline htmlUrl="http://www.barretlee.com/" xmlUrl="http://www.barretlee.com/rss2.xml" type="rss" text="小胡子哥的个人网站" title="小胡子哥的个人网站" />
+<outline text="少数派" type="rss" xmlUrl="http://sspai.com/feed" title="少数派" htmlUrl="https://sspai.com" />
+<outline htmlUrl="http://www.zreading.cn" text="左岸读书" xmlUrl="http://www.zreading.cn/feed" title="左岸读书" type="rss" />
+<outline type="rss" title="张鑫旭-鑫空间-鑫生活" xmlUrl="http://www.zhangxinxu.com/wordpress/feed/" htmlUrl="https://www.zhangxinxu.com/wordpress" text="张鑫旭-鑫空间-鑫生活" />
+<outline type="rss" text="月光博客" title="月光博客" htmlUrl="https://www.williamlong.info/" xmlUrl="http://feed.williamlong.info/" />
+<outline htmlUrl="https://coolshell.cn" type="rss" title="酷 壳 – CoolShell" xmlUrl="https://coolshell.cn/feed" text="酷 壳 – CoolShell" />
+<outline xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" text="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" />
+</body>
+</opml>
